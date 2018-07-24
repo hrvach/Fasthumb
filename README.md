@@ -143,9 +143,9 @@ Input parameters
    profiling and re-write could possibly improve performance even more. To be
    determined.
 
- - This software is ~250 single lines of code, please keep that if you think of
-   a feature it cannot do. It was written over a weekend of coding and I
-   decided to share and (possibly) help somebody out.
+ - This software is ~250 single lines of code, please keep that in mind if you
+   think of a feature it cannot do. It was written over a weekend of coding and
+   I decided to share and (possibly) help somebody out.
    
    If you got this far, thanks for reading and good luck. Drop me a line if 
    you find it useful!
